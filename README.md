@@ -10,3 +10,7 @@
 ## Adicionando outro conteúdo relevante
 
 - MEAG
+
+### Irrelevante
+
+- Golem, CLash Royale
