@@ -13,4 +13,4 @@
 
 ### Irrelevante
 
-- Golem, CLash Royale
+- Golem, Clash Royale
