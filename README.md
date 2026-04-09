@@ -9,7 +9,7 @@
 
 ## Adicionando outro conteúdo relevante
 
-- MEAG
+- **MEAG**
 
 ### Irrelevante
 
